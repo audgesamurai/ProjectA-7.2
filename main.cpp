@@ -1,3 +1,12 @@
+// ============================================================
+// Project: Programming Project 7.20.7 - Unique Word Pointers
+// Description: Stores only unique words using a vector<char*>.
+//              Reuses pointers for duplicates read from cin.
+// Coder: Audrey Tapia
+// Tester: Giannfranco
+// Team Members: Audrey, Giannfranco, Ashley, Heily
+// ============================================================
+
 #include <iostream>
 #include <cctype>
 using namespace std;
